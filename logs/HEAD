@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 0c06ac0d6989a3feec91e71b369210849f6e4993 语音调控 <voicecontrol@local> 1792825635 +0800	commit (initial): v1.0: 语音调控首个正式版
+0c06ac0d6989a3feec91e71b369210849f6e4993 408107f4bbe30579a3b588b22b387cb5c33423e1 语音调控 <voicecontrol@local> 1792826533 +0800	commit: v1.11: 固定零点定向去除 + 启动刷新音频设备
+408107f4bbe30579a3b588b22b387cb5c33423e1 9bfa4ee5202171f332f08fdd03b9667c343bcffd 语音调控 <voicecontrol@local> 1792828990 +0800	commit: v1.22: 声音情况数据图录制（测试辅助）+ 地图定位改动合并
+9bfa4ee5202171f332f08fdd03b9667c343bcffd 82f6197867d437eb4b9d742887c8f0d4229007ca 语音调控 <voicecontrol@local> 1792830848 +0800	commit: v1.2.3: 声纹自动开关麦「闭麦同步路径」优化（消除开麦吞音）+ 版本号编译入程序
+82f6197867d437eb4b9d742887c8f0d4229007ca a6515eb8bc8b0314f55d121fe6644227e0a1ce8e 语音调控 <voicecontrol@local> 1792831263 +0800	commit: v1.2.4: 更正识别窗口为固定 3s（取消自适应 1s/3s）
+a6515eb8bc8b0314f55d121fe6644227e0a1ce8e d13ab3d1324e048d7a0ed9c15bb0ad9deaed72ba 语音调控 <voicecontrol@local> 1792831914 +0800	commit: v1.2.5: 回退「闭麦同步路径」，修复模型无法正确开关麦
+d13ab3d1324e048d7a0ed9c15bb0ad9deaed72ba 0c41e8c0a775585459f18dcdf2a436a272ef09ef 语音调控 <voicecontrol@local> 1792832992 +0800	commit: v1.3.0: 指向性定位三维化（数据模型 + 全新功能页）
